@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Hidayatullah<br>Currently, I'm learning to become a backend developer.
+Hi 👋, I'm Hidayatullah<br>Currently, I'm learning to become a full stack developer.
 
 
 ## 🌐 Socials:
